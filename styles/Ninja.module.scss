@@ -1,0 +1,15 @@
+.user {
+    background: #efefef;
+    color: #333;
+    width: 100%;
+    display: block;
+    margin: 0 auto 24px;
+    padding: 4px 24px;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.user:hover {
+    border-left: 8px solid rgb(75, 162, 255);
+}
